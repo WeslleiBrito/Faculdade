@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b3c0f8c9e3d02117",
+    "type": "split",
+    "children": [
+      {
+        "id": "38eb361deacadf83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d5585aa3ac9b8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Informações Complementares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c130762d5d94d7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "896ad3a766545348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6282eed2488aee1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "891910946ecd755f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af0500dbbfd9d53f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98ff1529aae49846",
+    "type": "split",
+    "children": [
+      {
+        "id": "2550ed77420c3561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad56e4d4b53961eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Informações Complementares.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c60fd705749c6660",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Informações Complementares.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e713fd74cd1575c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc2fe2285f92c7e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Informações Complementares.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "5d5585aa3ac9b8ea",
+  "lastOpenFiles": [
+    "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Básico de Software.md",
+    "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Informações Complementares.md",
+    "Aula 1 Conceitos Básicos de Computação/Conteúdo Base/Saiba mais.md",
+    "2024-05-30.md",
+    "().md",
+    "Informações Complementares.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Revisões elementares/Matemática Elementar/Teoria dos Conjuntos.md",
+    "Conceito de Software e programas.md",
+    "Conceito.md",
+    "Revisões elementares/Matemática Elementar/Mídias/Screenshot 2024-05-28 194518.png",
+    "Screenshot.md",
+    "Revisões elementares/Matemática Elementar/Mídias",
+    "Revisões elementares/Matemática Elementar",
+    "Revisões elementares",
+    "Aula 1 Conceitos Básicos de Computação/Conteúdo Base",
+    "Aula 1 Conceitos Básicos de Computação",
+    "Aula 1",
+    "Welcome.md"
+  ]
+}
